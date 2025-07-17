@@ -1,0 +1,2058 @@
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\5sk4v3rzyz-v1mnlxidfu.gz
+C:\Users\MSI Laser\MyResearcherApp\obj\Debug\net9.0\compressed\b4ldqit3zh-4994ch2kvg.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\MyResearcherApp\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\5sk4v3rzyz-gxajk4a87s.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\MyResearcherApp\obj\Debug\net9.0\compressed\b4ldqit3zh-vcfag54jp2.gz
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n1\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\5sk4v3rzyz-gxajk4a87s.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n1\obj\Debug\net9.0\compressed\b4ldqit3zh-z770407ox0.gz
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n2\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\b4ldqit3zh-2r351ipz5b.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n2\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n3\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n3\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n5\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n5\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n7\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n7\obj\Debug\net9.0\compressed\tm6z0602bh-u086wi3wur.gz
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n8\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\tm6z0602bh-u086wi3wur.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n8\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n9\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\tm6z0602bh-u086wi3wur.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n9\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n10\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\tm6z0602bh-u086wi3wur.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n10\obj\Debug\net9.0\compressed\rtq04gcdv3-xkmzkp8ozm.gz
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\appsettings.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n11\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\rtq04gcdv3-wcqf48rqmr.gz
+C:\Users\Wadah\Desktop\n11\obj\Debug\net9.0\compressed\tm6z0602bh-1xadvulywc.gz
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\appsettings.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n12\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\tm6z0602bh-1xadvulywc.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\Wadah\Desktop\n12\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\appsettings.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n14\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\tm6z0602bh-yz25rtpmie.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\Wadah\Desktop\n14\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n15\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n15\obj\Debug\net9.0\compressed\tm6z0602bh-4z7afhuvtl.gz
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\appsettings.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n16\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n16\obj\Debug\net9.0\compressed\tm6z0602bh-tpwwnh0r7v.gz
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n17\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\tm6z0602bh-sgijzlwlbi.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n17\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n18\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n18\obj\Debug\net9.0\compressed\tm6z0602bh-78exgyvqqd.gz
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n19\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\tm6z0602bh-1mj02dgfn6.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n19\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\appsettings.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n20\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\gov9c7sl82-8h0drqfctg.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\tm6z0602bh-1mj02dgfn6.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\tce0hwayt8-rocu4h7lps.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\Wadah\Desktop\n20\obj\Debug\net9.0\ref\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.staticwebassets.runtime.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.staticwebassets.endpoints.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.exe
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.deps.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.runtimeconfig.json
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n21\bin\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.AssemblyInfoInputs.cache
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.AssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cache
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.RazorAssemblyInfo.cs
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\scopedcss\bundle\MyResearcherApp.styles.css
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\scopedcss\projectbundle\MyResearcherApp.bundle.scp.css
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\pmoqb46yqw-cq1soi9gy0.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\wusiyov6bu-ck0ugcc16g.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\rnl9pjawgi-n9w2xoi6al.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\85lywsewgn-b9sayid5wm.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\gov9c7sl82-8h0drqfctg.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\5sk4v3rzyz-cou5dvpxjm.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\wwl90acysx-61n19gt1b8.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\oxh559tck7-5b6arb8txz.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\rtq04gcdv3-v6yd0jtxlt.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\tm6z0602bh-1mj02dgfn6.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\wvyqiseqy7-xtxxf3hu2r.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\tce0hwayt8-rocu4h7lps.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\b4ldqit3zh-u1i7pez7rp.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zb5mbtmwm4-bqjiyaj88i.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\y8lr9rrsc8-c2jlpeoesf.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\yxh1wipzha-erw9l3u2r3.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\d3xihttp8p-aexeepp0ev.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\0g3ygj0t6g-d7shbmvgxk.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\vt6vt0itu1-ausgxo2sd3.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\13aroaarf3-k8d9w2qqmf.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\6fztqok9rg-cosvhxvwiu.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\8pnorpudk4-ub07r2b239.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\02ijzub9r4-fvhpjtyr6v.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zylg560mh6-b7pk76d08c.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\a3yew9jjv5-fsbi9cje9m.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\gaez1h4yka-rzd6atqjts.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\o5djrgfa4n-ee0r1s7dh0.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\uq84jyc5uq-dxx9fxp4il.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\3pgar75ic7-jd9uben2k1.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ajj1nzfzx8-khv3u5hwcm.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zstkmeicgv-r4e9w2rdcm.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\f3kipzw1r6-lcd1t2u6c8.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\j75019336f-c2oey78nd0.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zt8szrzpom-tdbxkamptv.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\wjxw6x9rp3-j5mq2jizvt.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ab9m8b4eq1-06098lyss8.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\oa7lxd9xmm-nvvlpmu67g.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ov62eywfx1-s35ty4nyc5.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\clpgjliwcn-pj5nd1wqec.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\5nmaeppxtz-46ein0sx1k.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\e18ke5iwhc-v0zj4ognzu.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\b7uy4g5hkw-37tfw0ft22.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\m81ie5rll0-hrwsygsryq.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\xrk84c7h5h-pk9g2wxc8p.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\76fa6mjw75-ft3s53vfgj.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\1pou8r2fpu-6cfz1n2cew.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zimynlsoge-6pdc2jztkx.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\c7okbnx0ov-493y06b0oq.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\8bjldkeiha-iovd86k7lj.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\z7jf8cye4q-vr1egmr9el.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\lcjo92pqzw-kbrnm935zg.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\kktws8fhda-jj8uyg4cgr.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\0b22j4b70e-y7v9cxd14o.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\f1zn68vsdg-notf2xhcfb.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ule2zu9bbc-h1s4sie4z3.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\h4i2zkqam6-63fj8s7r0e.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\9ipancmo9e-0j3bgjxly4.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\zx5h4v0ijs-47otxtyo56.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\rdulab5a9r-4v8eqarkd7.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\qookgg4oui-356vix0kms.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\0qs9yik6xw-83jwlth58m.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\30wgljbab7-mrlpezrjn3.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\wt4i2fbozr-lzl9nlhx6b.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\5z1mx5mxvu-ag7o75518u.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\k1i0t01o5h-x0q3zqp4vz.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\4qp475zulq-0i3buxo5is.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ke0k8eu5cn-o1o13a6vjx.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\a1afc88sw0-ttgo8qnofa.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\guuubyzlf6-2z0ns9nrw6.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\jew8d658xk-muycvpuwrr.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\ry615ae1cx-87fc7y1x7t.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\5sns53ldc7-mlv21k5csn.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\sw16yjn921-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\compressed\bj8iifvh9h-ixoepq5bpg.gz
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets\msbuild.MyResearcherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets\msbuild.build.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyResearcherApp.props
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\refint\MyResearcherApp.dll
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.pdb
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\MyResearcherApp.genruntimeconfig.cache
+C:\Users\MSI Laser\Desktop\n21\obj\Debug\net9.0\ref\MyResearcherApp.dll

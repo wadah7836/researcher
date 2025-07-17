@@ -1,0 +1,70 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  padding: 20px;
+  background: #f5f7fa;
+  color: #222;
+}
+h1 {
+  text-align: center;
+  color: #0057b8;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+th, td {
+  border: 1px solid #aaa;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+th {
+  background-color: #007acc;
+  color: white;
+}
+button {
+  padding: 6px 12px;
+  margin: 2px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+.btn-accept { background-color: #28a745; }
+.btn-accept:hover { background-color: #218838; }
+.btn-reject { background-color: #dc3545; }
+.btn-reject:hover { background-color: #c82333; }
+
+.status-pending { color: orange; font-weight: bold; }
+.status-accepted { color: green; font-weight: bold; }
+.status-rejected { color: red; font-weight: bold; }
+
+#loginModal {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex; justify-content: center; align-items: center;
+  z-index: 1000;
+}
+#loginBox {
+  background: white;
+  padding: 30px 40px;
+  border-radius: 10px;
+  width: 320px; text-align: center;
+}
+#loginBox input {
+  width: 100%; padding: 10px; margin-bottom: 15px;
+  font-size: 16px; border: 1px solid #ccc; border-radius: 6px;
+}
+#loginBox button {
+  width: 100%; padding: 12px;
+  background: #007acc; color: white; font-weight: bold;
+  font-size: 18px; border-radius: 6px; border: none;
+}
+#loginBox button:hover { background: #005f99; }
+#loginError { color: red; font-weight: bold; min-height: 18px; }
+
+#mainContent { display: none; }

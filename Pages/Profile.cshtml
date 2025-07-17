@@ -1,0 +1,438 @@
+@page "{username?}"
+@model MyResearcherApp.Pages.ProfileModel
+
+@{
+    Layout = null; // أو عين Layout إذا لديك واحد
+}
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>بروفايل الباحث</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+  <!-- أضف هذا السطر هنا: -->
+  <link rel="stylesheet" href="~/css/profile-style.css" />
+
+  <!-- مكتبات PDF و Word -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/evidenceprime/html-docx-js/dist/html-docx.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    body { margin: 0; font-family: 'Cairo', sans-serif; background: linear-gradient(-45deg,#2193b0,#6dd5ed,#753a88,#d8b4f8); background-size: 400% 400%; animation: gradientBG 15s ease infinite; color: #222; }
+    
+    .wrapper { display: flex; justify-content: center; padding: 30px; }
+    .main { display: flex; width: 100%; max-width: 1400px; background: rgba(255,255,255,0.95); border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); overflow-x: auto; flex-wrap: wrap; gap: 20px; }
+    .col { flex: 1 1 450px; padding: 30px; box-sizing: border-box; }
+    .section { margin-bottom: 30px; }
+    .section h3 { border-bottom: 2px solid #004080; padding-bottom: 5px; color: #004080; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+    .photo { text-align: center; }
+    .photo img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; margin-bottom: 15px; border: 4px solid #004080; cursor: pointer; transition: box-shadow 0.3s; }
+    .photo img:hover { box-shadow: 0 0 10px #004080; }
+    .info-box { background: #eef2f7; padding: 15px; border-radius: 8px; }
+    .info-item { margin-bottom: 10px; }
+    .info-item span { font-weight: bold; color: #004080; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; direction: rtl; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+    th { background-color: #004080; color: white; }
+    #downloadBtn, #editBtn { position: fixed; top: 10px; padding: 12px 20px; border: none; color: #fff; font-size: 16px; border-radius: 6px; cursor: pointer; z-index: 9999; }
+    #downloadBtn { right: 20px; background: #004080; }
+    #editBtn { left: 20px; background: #f39c12; }
+    #editModal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); justify-content: center; align-items: center; z-index: 10000; }
+    #editModal .modal-content { background: white; padding: 30px; border-radius: 10px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center; }
+    #editModal input { width: 100%; padding: 10px; margin-bottom: 15px; font-size: 16px; box-sizing: border-box; }
+    #editModal button { padding: 12px 20px; font-size: 16px; cursor: pointer; background: #004080; color: white; border: none; border-radius: 6px; }
+    #editMsg { margin-top: 10px; min-height: 20px; color: red; }
+    #fileInput { display: none; }
+  </style>
+</head>
+<body>
+
+<!-- حاوية الأزرار اليمنى -->
+<div style="position: fixed; top: 10px; right: 20px; display: flex; flex-direction: column; gap: 8px; align-items: flex-end; z-index: 9999;">
+  <button id="downloadBtn" style="background: #d32f2f; color: #fff; padding: 8px 14px; width: 120px; border: none; border-radius: 6px; font-size: 14px;">
+    <i class="fas fa-file-pdf"></i> تحميل PDF
+  </button>
+
+  <button id="wordBtn" style="cursor: pointer; background: #2e7d32; color: #fff; padding: 8px 14px; width: 120px; border: none; border-radius: 6px; font-size: 14px; margin-top: 60px;">
+    <i class="fas fa-file-word"></i> تحميل Word
+  </button>
+</div>
+
+<!-- زر التعديل في اليسار -->
+<button id="editBtn" style="position: fixed; top: 10px; left: 20px; background: #f39c12; color: #fff; padding: 10px 16px; width: 120px; border: none; border-radius: 6px; font-size: 15px; z-index: 9999;">
+  <i class="fas fa-edit"></i> تعديل
+</button>
+
+<div class="wrapper">
+  <div class="main">
+    <div class="col">
+      <div class="section photo">
+        <img id="photo" crossorigin="anonymous" src="" alt="صورة الباحث" title="اضغط هنا لتعديل الصورة" />
+        <h2 id="name"></h2>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-id-card"></i> السيرة الذاتية</h3>
+        <p id="bio"></p>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-address-card"></i> المعلومات الشخصية</h3>
+        <div class="info-box" id="personalInfo">
+          <p><strong>الاسم بالعربية:</strong> <span id="name_ar">—</span></p>
+          <p><strong>الاسم بالإنجليزية:</strong> <span id="name_en">—</span></p>
+          <p><strong>تاريخ التولد:</strong> <span id="birthdate">—</span></p>
+          <p><strong>اللقب العلمي:</strong> <span id="academic_title">—</span></p>
+          <p><strong>الشهادة:</strong> <span id="degree">—</span></p>
+          <p><strong>الاختصاص العام:</strong> <span id="general_specialization">—</span></p>
+          <p><strong>الاختصاص الدقيق:</strong> <span id="specific_specialization">—</span></p>
+        </div>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-graduation-cap"></i> التعليم</h3>
+        <table id="eduTable">
+          <thead>
+            <tr><th>الشهادة</th><th>الجامعة</th><th>الكلية</th><th>البلد</th><th>التاريخ</th></tr>
+          </thead>
+          <tbody id="eduBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-certificate"></i> الألقاب العلمية</h3>
+        <table id="titlesTable">
+          <thead>
+            <tr><th>اللقب</th><th>تاريخ الحصول</th></tr>
+          </thead>
+          <tbody id="titlesBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-award"></i> الشهادات الأخرى</h3>
+        <table id="certificatesTable">
+          <thead>
+            <tr><th>الشهادة</th><th>تاريخ</th><th>الوصف</th></tr>
+          </thead>
+          <tbody id="certificatesBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-users"></i> إشراف الطلبة</h3>
+        <table id="studentsTable">
+          <thead>
+            <tr><th>الاسم</th><th>التاريخ</th><th>الوصف</th></tr>
+          </thead>
+          <tbody id="studentsBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-briefcase"></i> المناصب الإدارية</h3>
+        <table id="positionsTable">
+          <thead>
+            <tr><th>المنصب</th><th>من تاريخ</th><th>إلى تاريخ</th></tr>
+          </thead>
+          <tbody id="positionsBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-trophy"></i> الجوائز والتكريمات</h3>
+        <table id="awardsTable">
+          <thead>
+            <tr><th>الاسم</th><th>الوصف</th><th>التاريخ</th></tr>
+          </thead>
+          <tbody id="awardsBody"></tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-laptop-code"></i> مهارات استخدام البرمجيات</h3>
+        <p id="skills"></p>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="section">
+        <h3><i class="fas fa-link"></i> الروابط العلمية</h3>
+        <ul id="linksList"></ul>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-award"></i> انجازات الباحث</h3>
+        <p><strong>المؤتمرات:</strong> <span id="conferences"></span></p>
+        <p><strong>ورش العمل:</strong> <span id="workshops"></span></p>
+        <p><strong>الكتب:</strong> <span id="books"></span></p>
+        <p><strong>براءات الاختراع:</strong> <span id="patents"></span></p>
+        <p><strong>دورات:</strong> <span id="courses"></span></p>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-list"></i>احصائيات الباحث:</h3>
+        <p id="others"></p>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-chart-bar"></i> الإحصائيات العلمية</h3>
+        <table style="width:100%; border-collapse:collapse;">
+          <thead>
+            <tr style="background:#004080; color:white;">
+              <th>المصدر</th>
+              <th>عدد البحوث</th>
+              <th>عدد الاستشهادات</th>
+              <th>H-Index</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><i class="fab fa-google" style="color:#4285F4;"></i> Google Scholar</td>
+              <td><span id="numPubsGS">--</span></td>
+              <td><span id="numCitesGS">--</span></td>
+              <td><span id="hIndexGS">--</span></td>
+            </tr>
+            <tr>
+              <td><i class="fas fa-chart-bar" style="color:#28a745;"></i> Scopus</td>
+              <td><span id="numPubsScopus">--</span></td>
+              <td><span id="numCitesScopus">--</span></td>
+              <td><span id="hIndexScopus">--</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-chart-bar"></i> تمثيل بياني للإحصائيات</h3>
+        <canvas id="statsChart" height="150"></canvas>
+      </div>
+
+      <div class="section">
+        <h3><i class="fas fa-chart-bar"></i> تطور عدد الأبحاث حسب السنوات (ORCID)</h3>
+        <canvas id="orcidChart" height="150"></canvas>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="editModal" class="modal">
+  <div class="modal-content">
+    <input id="usernameEdit" placeholder="اسم المستخدم" />
+    <input id="passwordEdit" type="password" placeholder="كلمة المرور" />
+    <div style="display: flex; justify-content: space-between; gap: 10px;">
+      <button id="confirmEdit" style="flex: 1;">تحقق وفتح التعديل</button>
+      <button id="cancelEdit" style="flex: 1; background: #888;">إلغاء</button>
+    </div>
+    <p id="editMsg"></p>
+  </div>
+</div>
+
+<input type="file" id="fileInput" accept="image/*" />
+
+
+
+
+<script>
+  // ← عند الضغط على زر Word، نعرض نافذة اختيار الأقسام
+document.getElementById('wordBtn').onclick = () => {
+  const wrapper = document.querySelector('.wrapper');
+  const sections = wrapper.querySelectorAll('.section, .photo');
+
+  const checkboxContainer = document.getElementById('sectionCheckboxes');
+  checkboxContainer.innerHTML = '';
+  sections.forEach((section, index) => {
+    const title = section.querySelector('h3')?.innerText || (section.classList.contains("photo") ? "الصورة الشخصية" : `قسم ${index+1}`);
+    checkboxContainer.innerHTML += `
+      <label><input type="checkbox" data-index="${index}" checked> ${title}</label><br>
+    `;
+  });
+
+  document.getElementById('sectionSelector').style.display = 'flex';
+};
+
+let sectionSelection = [];
+function startDownloadWord() {
+  const wrapper = document.querySelector('.wrapper');
+  const clone = wrapper.cloneNode(true);
+  clone.querySelectorAll('button').forEach(btn => btn.remove());
+
+  const sections = clone.querySelectorAll('.section, .photo');
+  const checkboxes = document.querySelectorAll('#sectionCheckboxes input[type="checkbox"]');
+  checkboxes.forEach((checkbox, index) => {
+    if (!checkbox.checked) {
+      sections[index].remove();
+    }
+  });
+
+  document.getElementById('sectionSelector').style.display = 'none';
+
+  // تمرير النسخة المنقّحة
+  window.__filteredWrapper = clone;
+  window.__skipSectionFilter = false;
+
+  // استدعاء كود التصدير الأصلي
+  triggerOriginalWordExport();
+}
+
+// ← كود التصدير إلى Word (نفس كودك محفوظ تمامًا مع ربطه بالاختيار أعلاه)
+async function triggerOriginalWordExport() {
+
+  const name = document.getElementById('name').innerText || 'cv';
+  const originalWrapper = document.querySelector('.wrapper');
+  const clone = window.__filteredWrapper || originalWrapper.cloneNode(true);
+
+  // استبدال الرسومات البيانية بصور
+  const canvasIds = ['statsChart', 'orcidChart'];
+
+  await Promise.all(canvasIds.map(async id => {
+    const canvas = originalWrapper.querySelector(`#${id}`);
+    const cloneCanvas = clone.querySelector(`#${id}`);
+
+    if (canvas && cloneCanvas) {
+     function resizeCanvasToImage(canvas, width) {
+  const scale = width / canvas.width;
+  const newCanvas = document.createElement('canvas');
+  newCanvas.width = width;
+  newCanvas.height = canvas.height * scale;
+  const ctx = newCanvas.getContext('2d');
+  ctx.drawImage(canvas, 0, 0, newCanvas.width, newCanvas.height);
+  return newCanvas.toDataURL('image/png');
+}
+
+const img = document.createElement('img');
+img.src = resizeCanvasToImage(canvas, 450); // ← حدد الحجم المطلوب هنا، مثلًا 200px
+img.style.display = 'block';
+img.style.margin = '10px auto';
+
+
+     // 🟡 تقليل حجم الصورة:
+     img.style.maxWidth = '400px';   // يمكنك تقليل هذا الرقم أكثر إذا أردت
+     img.style.height = 'auto';
+     img.style.display = 'block';
+     img.style.margin = '10px auto';
+
+     cloneCanvas.parentNode.replaceChild(img, cloneCanvas);
+    }
+  }));
+
+  const wrapper = clone;
+
+  wrapper.querySelectorAll('button').forEach(btn => btn.remove());
+
+  const img = wrapper.querySelector('#photo');
+
+  async function resizeImageToBase64(url, maxWidth, maxHeight) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.crossOrigin = "anonymous";
+      img.onload = () => {
+        const canvas = document.createElement('canvas');
+        const ctx = canvas.getContext('2d');
+        const ratio = Math.min(maxWidth / img.width, maxHeight / img.height);
+        canvas.width = img.width * ratio;
+        canvas.height = img.height * ratio;
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        resolve(canvas.toDataURL('image/png'));
+      };
+      img.onerror = reject;
+      img.src = url;
+    });
+  }
+
+  if (img && img.src) {
+    resizeImageToBase64(img.src, 100, 100).then(base64 => {
+      const photoBox = `
+        <div style="text-align:center; margin: 20px 0;">
+          <div style="
+            width:110px;
+            height:110px;
+            background: #004080;
+            border-radius: 15px;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+          ">
+            <img src="${base64}" style="
+              width:100px;
+              height:100px;
+              border-radius:50%;
+              object-fit: cover;
+              display: block;
+            " />
+          </div>
+          <h2 style="margin-top:10px; font-size: 18px;">${name}</h2>
+        </div>
+      `;
+      img.parentElement.innerHTML = photoBox;
+
+      const html = `
+        <html dir="rtl">
+        <head><meta charset="utf-8">
+          <style>
+            body { font-family: 'Cairo', sans-serif; direction: rtl; }
+            table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+            th, td { border: 1px solid #ccc; padding: 6px; text-align: center; font-size: 14px; }
+            th { background-color: #004080; color: white; }
+            h3 { color: #004080; margin-bottom: 5px; }
+          </style>
+        </head>
+        <body>${wrapper.innerHTML}</body>
+        </html>
+      `;
+      const docxBlob = window.htmlDocx.asBlob(html);
+      saveAs(docxBlob, `${name}.docx`);
+    }).catch(e => {
+      alert("خطأ في تحميل الصورة: " + e.message);
+    });
+  } else {
+    const html = `
+      <html dir="rtl">
+      <head><meta charset="utf-8">
+        <style>
+          body { font-family: 'Cairo', sans-serif; direction: rtl; }
+          table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+          th, td { border: 1px solid #ccc; padding: 6px; text-align: center; font-size: 14px; }
+          th { background-color: #004080; color: white; }
+          h3 { color: #004080; margin-bottom: 5px; }
+        </style>
+      </head>
+      <body>${wrapper.innerHTML}</body>
+      </html>
+    `;
+    const docxBlob = window.htmlDocx.asBlob(html);
+    saveAs(docxBlob, `${name}.docx`);
+  }
+
+  // تنظيف المتغير المؤقت
+  delete window.__filteredWrapper;
+}
+</script>
+
+<!-- نافذة اختيار الأقسام قبل تحميل ملف Word -->
+<div id="sectionSelector" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.5); z-index:10000; justify-content:center; align-items:center;">
+  <div style="background:white; padding:20px; border-radius:10px; max-width:400px; width:90%;">
+    <h3 style="color:#004080;">اختر الأقسام التي تريد تضمينها في السيرة الذاتية:</h3>
+    <div id="sectionCheckboxes" style="text-align:right; line-height: 2; max-height: 300px; overflow-y: auto;"></div>
+    <div style="margin-top:15px; text-align:center;">
+      <button onclick="startDownloadWord()" style="background:#004080; color:white; padding:8px 16px; border:none; border-radius:6px;">تحميل الملف</button>
+      <button onclick="document.getElementById('sectionSelector').style.display='none'" style="background:#888; color:white; padding:8px 16px; border:none; border-radius:6px; margin-right:10px;">إلغاء</button>
+    </div>
+  </div>
+</div>
+
+
+<script type="module" src="/js/profileSupabase.js"></script>
+
+
+
+
+</body>
+</html>

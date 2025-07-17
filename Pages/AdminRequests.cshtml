@@ -1,0 +1,50 @@
+@page
+@model MyResearcherApp.Pages.AdminRequestsModel
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>إدارة طلبات الاشتراك - منصة الباحث</title>
+  <link rel="stylesheet" href="/css/admin-requests.css" />
+</head>
+<body>
+
+  <div id="loginModal">
+    <div id="loginBox">
+      <h2>تسجيل دخول الأدمن</h2>
+      <input type="text" id="username" placeholder="اسم المستخدم" />
+      <input type="password" id="password" placeholder="كلمة المرور" />
+      <button id="loginBtn">دخول</button>
+      <div id="loginError"></div>
+    </div>
+  </div>
+
+  <div id="mainContent">
+    <h1>طلبات الاشتراك الجديدة</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>الاسم الكامل</th>
+          <th>البريد الإلكتروني</th>
+          <th>التخصص / القسم</th>
+          <th>نبذة قصيرة</th>
+          <th>اسم المستخدم</th>
+          <th>كلمة المرور</th>
+          <th>تاريخ الطلب</th>
+          <th>الحالة</th>
+          <th>إجراءات</th>
+        </tr>
+      </thead>
+      <tbody id="requestsTableBody"></tbody>
+    </table>
+  </div>
+
+  <script type="module" src="/js/adminRequests.js"></script>
+</body>
+</html>
