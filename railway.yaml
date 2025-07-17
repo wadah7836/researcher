@@ -5,7 +5,7 @@ services:
     repo: https://github.com/wadah7836/researcher
     branch: main
     buildCommand: dotnet build
-    startCommand: dotnet run --urls=http://0.0.0.0:10000
+    startCommand: dotnet run --urls=http://0.0.0.0:${PORT}
     envVars:
       - key: ASPNETCORE_URLS
-        value: http://0.0.0.0:10000
+        value: http://0.0.0.0:${PORT}
