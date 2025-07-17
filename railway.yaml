@@ -1,12 +1,6 @@
 services:
   - type: web
     name: researcher-app
-    env: dotnet
-    repo: https://github.com/wadah7836/researcher
-    branch: main
-    rootDirectory: n21        # <-- هنا تحدد المجلد الفرعي
-    buildCommand: dotnet build
-    startCommand: dotnet run --urls=http://0.0.0.0:${PORT}
-    envVars:
-      - key: ASPNETCORE_URLS
-        value: http://0.0.0.0:${PORT}
+    rootDirectory: .
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet MyResearcherApp.dll
