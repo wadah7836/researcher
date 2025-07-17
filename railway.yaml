@@ -4,6 +4,7 @@ services:
     env: dotnet
     repo: https://github.com/wadah7836/researcher
     branch: main
+    rootDirectory: n21        # <-- هنا تحدد المجلد الفرعي
     buildCommand: dotnet build
     startCommand: dotnet run --urls=http://0.0.0.0:${PORT}
     envVars:
