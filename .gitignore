@@ -1,0 +1,47 @@
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.app
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+*.env
+appsettings.*.json
+
+# Logs
+*.log
+
+# Backup & cache
+*.bak
+*.tmp
+*.cache
+
+# Rider IDE
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git folder itself should ignore:
+!.gitignore
