@@ -1,5 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
 
+// أضف هذا السطر للحصول على المنفذ من متغير البيئة PORT أو استخدم 5000 كافتراضي
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+builder.WebHost.UseUrls($"http://*:{port}");
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
@@ -24,3 +28,4 @@ app.MapRazorPages()
    .WithStaticAssets();
 
 app.Run();
+
