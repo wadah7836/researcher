@@ -3,4 +3,5 @@ services:
     name: researcher-app
     rootDirectory: .
     buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet MyResearcherApp.dll
+    startCommand: dotnet out/MyResearcherApp.dll --urls=http://0.0.0.0:$PORT
+
